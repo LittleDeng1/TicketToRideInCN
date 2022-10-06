@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- THIS FILE WILL BE COPIED IN ALL PROJECTS -->
+
+    <!-- Game Screen -->
+    <string key="MessageBox_Yes">确定</string>
+    <string key="MessageBox_No">取消</string>
+    <string key="MessageBox_OK">好的</string>
+    <string key="MessageBox_Cancel">取消</string>
+
+    <!-- Duration Formatter -->
+    <string key="NbDays_Format">%d 天</string>
+    <string key="NbDays_ShortFormat">%d d</string>
+    <string key="NbHours_Format">%d 时</string>
+    <string key="NbHours_ShortFormat">%d h</string>
+    <string key="NbMinutes_Format">%d 分</string>
+    <string key="NbMinutes_ShortFormat">%d min</string>
+    <string key="NbSeconds_Format">%d 秒</string>
+    <string key="NbSeconds_ShortFormat">%d s</string>
+
+    <!-- Invitation -->
+    <string key="InvitationDialog_Title">在线游戏邀请</string>
+    <string key="InvitationDialog_Message">%s 邀请你参加一场 %d 人在线游戏.</string>
+    <string key="InvitationDialog_Decline_Button">拒绝邀请</string>
+    <string key="InvitationDialog_See_Button">查看邀请</string>
+    <string key="InvitationDialog_Accept_Button">接受邀请</string>
+
+    <!-- No internet connection message -->
+    <string key="NoInternetConnection_Title">无网络连接</string>
+    <string key="NoInternetConnection_Message">需要联网.</string>
+
+    <string key="OnlineServerDidNotRespond_Title">连接错误</string>
+    <string key="OnlineServerDidNotRespond_Message">线上服务器无响应. 请检查你的网络连接.</string>
+    <string key="Error_Code">错误代码: </string>
+    
+    <!-- Game Center messages -->
+    <string key="GameCenterAuthentication_Title">Game Center 认证</string>
+    <string key="GameCenterAuthentication_CanceledMessage">你上次决定不使用Game Center.
+请到Game Center app 登录.</string>
+    <string key="GameCenterAuthentication_FailedMessage">登录到 Game Center 时发生错误.
+请到Game Center app, 退出登录再重新登录.</string>
+
+    <string key="OnlinePlay_CheckVersion_Title">需要更新应用</string>
+    <string key="OnlinePlay_CheckVersion_MessageFormat">在线游玩必须更新应用 (你的版本: %s, 至少需要此版本: %s)</string>
+
+    <string key="MessageBox_TryAgain">重试</string>
+
+    <string key="InAppPanelDLCPurchase_Title">谢谢</string>
+    <string key="InAppPanelDLCPurchase_Message">感谢你的购买.</string>
+
+    <string key="PleaseConnectXboxLive_Title">登录</string>
+    <string key="PleaseConnectXboxLive_Message">请登录到Xbox Live以保存进度及成就.</string>
+
+    <string key="InvitationFromPartnerDialog_Message">你已经被 %s 邀请到游戏
+(来自 %s)</string>
+    <string key="InvitationFromPartnerDialog_Parter_26">PlayStation™Network</string>
+    <string key="InvitationFromPartnerDialog_Parter_27">Xbox Live</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in Chinese -->
+    
+</strings>

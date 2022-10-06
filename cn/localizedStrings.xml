@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- DO NOT LOCALIZE THIS ONE -->
+    <string key="RulesLanguage">cn</string>
+
+    <!-- Tooltips -->
+    <subPool name="tooltips.xml"/>
+
+    <!-- Tutorial -->
+    <subPool name="tutorialStrings.xml"/>
+
+    <!-- Errors -->
+    <subPool name="errorMessages.xml"/>
+
+    <!-- SSO -->
+    <subPool name="ssoStrings.xml"/>
+
+    <!-- Standard -->
+    <subPool name="standardStrings.xml"/>
+
+    <!-- Online Game Strings -->
+    <subPool name="onlineGameStrings.xml"/>
+
+    <!-- Achievements -->
+    <subPool name="achievements.xml"/>
+
+    <!-- Play Screen -->
+    <string key="GameSetupPanel_Label">选择玩家数量</string>
+    <string key="MapSelection_ChangeMap_Button">更换地图</string>
+    <string key="MapSelection_BackMap_Button">返回</string>
+    <string key="MapSelection_ChangeMap_Small_Button">更改</string>
+    <string key="MapSelection_SelectMap_Button">选择地图</string>
+    <string key="MiniShop_VisitShop_Button">访问商店</string>
+
+    <string key="PlayerNameFormat">玩家 %d</string>
+    <string key="TutorialPlayerName">你</string>
+
+    <string key="CreateGameSetupPanel_DefaultGameName_Format">%s 的游戏</string>
+    <string key="CreateGameSetupPanel_NumberOfPlayers_Label">玩家数量</string>
+    <string key="CreateGameSetupPanel_Rank_Label">计分游戏</string>
+    <string key="CreateGameSetupPanel_Password_Label">密码</string>
+    <string key="CreateGameSetupPanel_Custom_Label">自定义</string>
+    <string key="CreateGameSetupPanel_CustomTime_Label">自定义时间</string>
+    <string key="CreateGameSetupPanel_NumberOfPlayer_Label">玩家数量</string>
+    <string key="CreateGameSetupPanel_FirstPlayer_Label">先手</string>
+    <string key="CreateGameSetupPanel_MinimimKarma_Label">最低等级</string>
+    <string key="CreateGameSetupPanel_GameObservable_Label">可观战游戏</string>
+    <string key="CreateGameSetupPanel_Nobody_Label">无人</string>
+    <string key="CreateGameSetupPanel_BuddiesOnly_Label">仅限好友</string>
+    <string key="CreateGameSetupPanel_Everybody_Label">所有人</string>
+    <string key="CreateGameSetupPanel_HideCards_Label">隐藏卡牌</string>
+    <string key="CreateGameSetupPanel_ShowCards_Label">显示卡牌</string>
+    <string key="CreateGameSetupPanel_NotObservable_Label">因为时间设置超过一小时 本场游戏无法观战.</string>
+    <string key="CreateGameSetupPanel_DefinePassword_Title">设置游戏密码</string>
+    <string key="CreateGameSetupPanel_DefinePassword_Message">给你的游戏设置密码.</string>
+    <string key="CreateGameSetupPanel_CustomTimeout_Title">自定义时间设置</string>
+    <string key="CreateGameSetupPanel_Timeout_Title">时间设置</string>
+    <string key="CreateGameSetupPanel_UndefinedCustomTimeout">?</string>
+    <string key="CreateGameSetupPanel_CustomTimeoutFormat">%s</string>
+    <string key="CreateGameSetupPanel_NoBuddies_Label">请在好友列表选择好友</string>
+
+    <string key="CreateGameSetupSidePanel_Online_Button">在线</string>
+    <string key="CreateGameSetupSidePanel_Buddies_Button">好友</string>
+    <string key="CreateGameSetupSidePanel_Ignored_Button">已忽略</string>
+    <string key="CreateGameSetupSidePanel_All_Button">全部</string>
+    <string key="CreateGameSetupSidePanel_PlayerNumber_Label_Sing">当前有 %d 位玩家在大厅</string>
+    <string key="CreateGameSetupSidePanel_PlayerNumber_Label_Plur">当前有 %d 位玩家在大厅</string>
+    <string key="CreateGameSetupSidePanel_PlayerNumber_Label_Small">%d 位玩家</string>
+    <string key="CreateGameSetupSidePanel_Remove_Button">移除</string>
+    <string key="CreateGameSetupSidePanel_Invite_Button">邀请加入</string>
+    <string key="CreateGameSetupSidePanel_Invite_RowButton">邀请</string>
+    <string key="CreateGameSetupSidePanel_Rank_Label">排名</string>
+    <string key="CreateGameSetupSidePanel_Score_Label">分数</string>
+    <string key="CreateGameSetupSidePanel_Games_Label">场次</string>
+    <string key="CreateGameSetupSidePanel_Search_Placeholder">搜索</string>
+    <string key="CreateGameSetupSidePanel_Filter_Placeholder">筛选</string>
+    <string key="CreateGameSetupSidePanel_NoBuddies_Label">你还没有好友.
+
+在 "在线" 标签, 选中玩家再按 "爱心" 按钮.</string>
+
+    <string key="PlatformPlayerInfoController_AddBuddy_Button">加入好友列表</string>
+    <string key="PlatformPlayerInfoController_RemoveBuddy_Button">移出好友列表</string>
+    <string key="PlatformPlayerInfoController_AddIgnore_Button">加入忽略列表</string>
+    <string key="PlatformPlayerInfoController_RemoveIgnore_Button">移出忽略列表</string>
+
+    <string key="JoinGameSetupTab_MapFilter_Title">• 筛选地图 •</string>
+    <string key="JoinGameSetupTab_GameFilter_Title">• 筛选游戏 •</string>
+    <string key="JoinGameSetupTab_AllMaps_Label">所有地图</string>
+    <string key="JoinGameSetupTab_Ranked_Label">记排名</string>
+    <string key="JoinGameSetupTab_Private_Label">私人</string>
+    <string key="JoinGameSetupTab_NoOpenGames_Label">没有开放的游戏.
+你可以在创建标签页创建一个.</string>
+    <string key="JoinGameSetupTab_FiltersTooRestricitive_Label">没有可显示的游戏.
+你的筛选条件太多.</string>
+    <string key="JoinGameSetupTab_TimeoutFormat">%s
+/玩家</string>
+    <string key="JoinGameSetupTab_EnterGamePassword_Title">私人游戏</string>
+    <string key="JoinGameSetupTab_EnterGamePassword_Message">请输入游戏密码.</string>
+    <string key="JoinGameSetupTab_AddFilter_Label">添加筛选</string>
+
+    <string key="ObservableGameSetupTab_FiltersTooRestricitive_Label">没有可观战游戏.
+你的筛选条件太多.</string>
+    <string key="ObservableGameSetupTab_NoObservableGames_Label">没有可观战游戏.</string>
+
+    <string key="ResumeGameSetupTab_ResumableGamesList_Title">• 游戏列表 •</string>
+    <string key="ResumeGameSetupTab_NoGames_Message">没有可继续的开放游戏.</string>
+    <string key="ResumeGameSetupTab_WithdrawGame_Title">退出游戏</string>
+    <string key="ResumeGameSetupTab_WithdrawGame_Message">你确定放弃本局游戏?</string>
+    <string key="ResumeGameSetupTab_Withdraw_Button">退出</string>
+    <string key="ResumeGameSetupTab_LeaveGame_Button">离开</string>
+    <string key="ResumeGameSetupTab_DeclineInvitation_Button">拒绝邀请</string>
+    <string key="ResumeGameSetupTab_CancelInvitation_Button">取消邀请</string>
+
+    <string key="ShopScreen_PriceTicket_Label">数字版</string>
+    <string key="ShopScreen_ViewProduct_Title">退出 Ticket to Ride</string>
+    <string key="ShopScreen_ViewProduct_MessageFormat">你将被跳转到浏览器查看 %s 的信息.
+你是否想要离开应用?</string>
+    <string key="ShopScreen_RestorePurchases_Button">恢复购买</string>
+
+    <!-- Async Game Push Notification Handler -->
+    <string key="AsyncGame_YourTurn_Title">你的回合</string>
+    <string key="AsyncGame_YourTurn_Message">轮到你了!
+你是否想现在玩这局在线游戏?</string>
+    <string key="AsyncGame_YourTurnInOtherGame_Message">另一场在线游戏轮到你了.
+你是否想现在换到这场游戏?</string>
+
+    <string key="AsyncGame_YourTurn_PlayButton">玩</string>
+
+    <string key="AsyncGame_YourTurnInvite_Title">邀请</string>
+    <string key="AsyncGame_YourTurnInvite_Message">你被邀请到这局在线游戏.
+你是否想现在玩?</string>
+    <string key="AsyncGame_YourTurnInviteInOtherGame_Message">你被邀请到另一场在线游戏.
+你是否想现在换到那场游戏?</string>
+
+    <string key="AsyncGame_GameOver_Title">游戏结束</string>
+    <string key="AsyncGame_GameOver_Message">其中一场在线游戏已结束.</string>
+
+    <string key="InvitationFromNotification_Message">你收到一局在线游戏的挑战.</string>
+
+    <!-- Local Play -->
+    <string key="CreateGameSetupPanel_LocalPlay_NoOpenGamesMessage">局域网内无游戏.
+
+创建一个 或者等朋友创建后加入.
+
+同时确保你们连接同一网络.</string>
+    <string key="CreateGameSetupPanel_LocalPlay_OpenGames_Label">开放游戏</string>
+    <string key="CreateGameSetupPanel_LocalPlay_WaitingPanel_Format">请等待其他玩家加入 %s 的游戏</string>
+    <string key="CreateGameSetupPanel_LocalPlay_GameName_Format">%s 的游戏</string>
+    <string key="CreateGameSetupPanel_LocalPlay_PlayerName">局域网玩家</string>
+
+    <string key="GameDetailsController_ItsYourTurn_Label">轮到你了!</string>
+    <string key="GameDetailsController_Waiting_Label">等待其他玩家加入游戏</string>
+
+    <string key="LocalGameError_Title">网络错误</string>
+    <string key="LocalGameError_MessageFormat">发生错误(%d, %s)</string>
+
+    <!-- Game Screen -->
+    <string key="NewTicketsMessageBox_Title">请求新车票</string>
+    <string key="NewTicketsMessageBox_Message">你是否想拿点新车票?</string>
+
+    <string key="LastTurnMsgBox_Title">最后一回合</string>
+    <string key="LastTurnMsgBox_YouMessageFormat">你剩不到2节车厢. 现在是最后一回合.</string>
+    <string key="LastTurnMsgBox_OtherMessageFormat">%s 剩不到2节车厢. 现在是最后一回合.</string>
+
+    <string key="QuitGame_Title">退出游戏</string>
+    <string key="QuitGame_Message">你是否想现在离开游戏?
+别担心, 会存档.</string>
+    <string key="QuitTutorial_Message">你是否想离开教程?</string>
+
+    <string key="StatusMessage_ChooseTickets">请选择一些车票.</string>
+    <string key="StatusMessage_YouPlayFirst">\n你先手.</string>
+    <string key="StatusMessage_OtherPlayFirst">\n%s 先手.</string>
+    <string key="StatusMessage_LastTurn_YouFinish">这是你的最后一回合!
+        你将结束这局游戏.</string>
+    <string key="StatusMessage_LastTurn_OtherFinishFormat">这是你的最后一回合!
+        %s 将结束这局游戏.</string>
+
+    <string key="StatusMessage_YourTurn">轮到你了!</string>
+    <string key="StatusMessage_PickSecondCard">选第二张牌!</string>
+
+    <!-- specifics uk message -->
+    <string key="StatusMessage_claimSecondRoute">铺第二条路 (热压机科技)</string>
+
+    <string key="ResumeGame_Title">继续游戏</string>
+    <string key="ResumeGame_SoloMessage">你是否想继续未完的单人游戏?</string>
+    <string key="ResumeGame_PassAndPlayMessage">你是否想继续未完的接力游戏?</string>
+    <string key="ResumeGame_LocalMessage">你是否想继续未完的局域网游戏?</string>
+    <string key="ResumeGame_OnlineMessage">你是否想继续未完的在线游戏?</string>
+    <string key="ResumeGame_PeriodicChallengeMessage">你是否想继续未完的每周挑战游戏?</string>
+    <string key="ResumeGame_Title">继续游戏</string>
+    <string key="ResumeGame_Message">你没有完成上一局游戏.
+是否继续?</string>
+    <string key="ResumeGame_ResumeButton">继续</string>
+    <string key="OnlinePlay_CannotResumeTitle">无法继续游戏</string>
+    <string key="OnlinePlay_CannotResumeMessage">对不起, 这局在线游戏不再可用</string>
+    <string key="OnlinePlay_CannotResumeMessageWithErrorFormat">你无法继续游戏 因为:
+%s</string>
+
+    <string key="PassAndPlay_ChooseFirstTickets_Title">选择你的开局车票!</string>
+    <string key="PassAndPlay_ChooseFirstTickets_MessageFormat">%s</string>
+
+    <string key="PassAndPlay_YourTurn_Title">轮到你了!</string>
+    <string key="PassAndPlay_YourTurn_MessageFormat">%s</string>
+
+    <string key="InGameSetupDialog_Title">Settings</string>
+
+    <string key="MainScreen_WelcomeTextWithName">欢迎, %s</string>
+    <string key="MainScreen_WelcomeText">欢迎来到 Ticket to Ride!</string>
+    <string key="TrainStationScreen_WelcomeText">欢迎来到 Ticket to Ride 中心!</string>
+    <string key="SettingsScreen_WelcomeText">该死的机器 - 总是要小修小补!</string>
+    <string key="RulesScreen_WelcomeText">选择你想学习的规则!</string>
+
+    <string key="SettingsScreen_HandToPlayLabel">• 惯用手 •</string>
+    <string key="SettingsScreen_EmoteGenderLabel">• 表情性别 •</string>
+    <string key="SettingsScreen_AccountInformationLabel">• 账户信息 •</string>
+    <string key="SettingsScreen_LoginSettingsButton">登录设置</string>
+    <string key="SettingsScreen_PreferredColorLabel">• 玩家颜色 •</string>
+    <string key="SettingsScreen_SoundEffectsLabel">音效</string>
+    <string key="SettingsScreen_MusicLabel">音乐</string>
+    <string key="SettingsScreen_ResetSettings_Title">重置设置</string>
+    <string key="SettingsScreen_ResetSettings_Message">是否重置设置?</string>
+    <string key="SettingsScreen_WindowOption_label">窗口</string>
+    <string key="SettingsScreen_SpeedOption_label">速度</string>
+    <string key="SettingsScreen_SmallUIOption_label">显示</string>
+    <string key="SettingsScreen_SoundOption_label">音乐和音效</string>
+
+    <string key="RulesScreenPage1Description">Ticket to Ride • 美国
+美国 1910 玩法</string>
+    <string key="RulesScreenPage2Description">欧洲 • 欧洲 1912 玩法
+瑞士 • 北欧国家</string>
+    <string key="RulesScreenPage3Description">大亚洲 • 印度
+宾夕法尼亚州 • 德国</string>
+    <string key="RulesScreenPage4Description">英国 • 法国</string>
+
+    <string key="ClaimStationDialog_Title">设立车站</string>
+    <string key="ClaimStationDialog_MessageFormat">你是否想设立 %s?</string>
+
+    <string key="TunnelDialog_Title">额外付出卡片</string>
+    <string key="TunnelDialog_Message">你是否想额外付出卡片?</string>
+    <string key="TunnelDialog_UseLocosLabel">使用车头</string>
+
+    <!-- In game errors -->
+    <string key="GameError_Title">错误</string>
+    <string key="GameError_Message">发生错误.</string>
+    <string key="GameError_MessageFormat">发生错误: %s</string>
+    <string key="GameError_QuitButton">退出</string>
+    <string key="GameAborted_Title">游戏中止</string>
+    <string key="GameAborted_MessageFormat">%s 终止了这局游戏.</string>
+
+    <!-- Online Player Info Controller -->
+    <string key="OnlinePlayerInfoController_RankFormat">排名
+%d</string>
+    <string key="OnlinePlayerInfoController_ScoreFormat">分数
+%d</string>
+    <string key="OnlinePlayerInfoController_NbGamesFormat">场次
+%d</string>
+
+    <!-- Leaderboards -->
+    <string key="LocalHighscoreMessageBox_MessageFormatForMap">恭喜, 你刚刚破了 %s 地图的高分记录!
+Do you want to save it?</string>
+    <string key="LocalHighscoreMessageBox_GlobalMessage">恭喜, 你刚刚破了全图的高分记录!
+        Do you want to save it?</string>
+
+    <string key="LeaderboardPanel_RankTitle">排名</string>
+    <string key="LeaderboardPanel_PlayerNameTitle">玩家</string>
+    <string key="LeaderboardPanel_ScoreTitle">分数</string>
+    <string key="LeaderboardPanel_GamesTitle">场次</string>
+
+    <string key="LeaderboardPanel_Day">天</string>
+    <string key="LeaderboardPanel_Week">周</string>
+    <string key="LeaderboardPanel_Ever">全时</string>
+
+    <string key="LocalPlayerInfo_NbGamesTitle">场次</string>
+    <string key="LocalPlayerInfo_RankTitle">排名</string>
+    <string key="LocalPlayerInfo_RankScoreTitle">分数</string>
+
+    <string key="Rank_NA">N/A</string>
+
+<string key="WorldwideHighscoreMessageBox_MessageFormatForMap">%s, 你刚刚破了 %s 地图的世界高分记录!</string>
+<string key="WorldwideHighscoreMessageBox_GlobalMessageFormat">%s, 你刚刚破了全图的世界高分记录!</string>
+    <string key="WorldwideHighscoreMessageBox_Go">See it</string>
+
+    <string key="ScoringRecapController_GameScoreTitle">游戏分数</string>
+
+    <string key="KarmaMessageBoxController_Title">等级</string>
+    <string key="KarmaMessageBoxController_MessageFormat">%s 有 %d 等级</string>
+
+    <!-- Map Names -->
+    <string key="MapName_us">美国</string>
+    <string key="MapName_u1">美国 1910 - 经典</string>
+    <string key="MapName_u2">美国 1910 - Mega</string>
+    <string key="MapName_u3">美国 1910 - 大城市</string>
+    <string key="MapName_pa">宾夕法尼亚州</string>
+    <string key="MapName_eu">欧洲</string>
+    <string key="MapName_e1">欧洲 1912 - 扩展</string>
+    <string key="MapName_e2">欧洲 1912 - Mega</string>
+    <string key="MapName_e3">欧洲 1912 - 大城市</string>
+    <string key="MapName_ch">瑞士</string>
+    <string key="MapName_nc">北欧国家</string>
+    <string key="MapName_de">德国</string>
+    <string key="MapName_uk">英国</string>
+    <string key="MapName_ua">英国 进阶</string>
+    <string key="MapName_as">大亚洲</string>
+    <string key="MapName_in">印度</string>
+    <string key="MapName_fr">法国</string>
+
+    <string key="PackName_usa">美国</string>
+    <string key="PackName_usa1910">美国 1910</string>
+    <string key="PackName_pennsylvania">宾夕法尼亚州</string>
+    <string key="PackName_europe">欧洲</string>
+    <string key="PackName_switzerland">瑞士</string>
+    <string key="PackName_nordiccountries">北欧国家</string>
+    <string key="PackName_germany">德国</string>
+    <string key="PackName_unitedkingdom">英国</string>
+    <string key="PackName_asia">大亚洲</string>
+    <string key="PackName_india">印度</string>
+    <string key="PackName_france">法国</string>
+
+    <string key="AchievementsScreen_DescriptionFormat">%s: %s</string>
+    <string key="AchievementsButton_Format">%d / %d</string>
+    <string key="AchievementsScreen_ShareButton">分享</string>
+    <string key="AchievementsScreen_RematchButton">重新开始</string>
+    <string key="AchievementsScreen_QuitButton">退出</string>
+    <string key="AchievementsScreen_ShareFormat">我在 Ticket to Ride 得到 "%s" 成就!</string>
+
+    <string key="RankScoreEvolutionPanel_Title">名次变化</string>
+    <string key="RankScoreEvolutionPanel_YourProgress">你的进度</string>
+    <string key="RankScoreEvolutionPanel_NbRankedGamesFormat_Provisional">玩过 %d 场在线排名游戏</string>
+    <string key="RankScoreEvolutionPanel_NbRankedGamesFormat_Established">你玩过 %d 场在线排名游戏</string>
+
+
+    <string key="ShareScoringScreenMessageBoxController_Title">分享结果</string>
+    <string key="ShareScoringScreenMessageBoxController_ShareAvancedButton">高级分享</string>
+    <string key="ShareScoringScreenMessageBoxController_ShareQuickButton">快速分享</string>
+    <string key="ShareScoringScreenMessageBoxController_QuickResultsLabel">快速分享结果</string>
+    <string key="ShareScoringScreenMessageBoxController_AdvancedResultsLabel">高级分享结果</string>
+
+    <!-- Claim Error Explanations
+     legal, illegal , notYourTurn , incorrectCards , alreadyClaimed , notEnoughWagons , noDoubleRoutes , illegalActionType , locoNotAllowed
+     -->
+    <string key="CannotClaimCity_TitleFormat">不能在 %s 设立车站</string>
+    <string key="CannotClaimCity_Illegal">你没有使用正确的牌来设立车站</string>
+    <string key="CannotClaimCity_AlreadyClaimed">车站已被设立</string>
+    <string key= "CannotClaimCity_NoMoreStationsAvailable">你的3个车站已设完</string>
+
+    <string key="CannotClaimRoute_Title">无法铺路</string>
+    <string key="CannotClaimRoute_IncorrectCards">你没有使用正确的牌来铺路</string>
+    <string key="CannotClaimRoute_NotEnoughWagons">你没有足够的车厢来铺路</string>
+    <string key="CannotClaimRoute_NoDoubleRoutes">少于 %d 人的游戏无法铺多车道</string>
+    <string key="CannotClaimRoute_WrongColor">你使用了错误的颜色来铺路</string>
+    <string key="CannotClaimRoute_MissingFerry">缺少部分车头来铺渡轮路线</string>
+    <string key="CannotClaimRoute_NotEnoughCards">你没有足够正确颜色的火车牌来铺路</string>
+    <string key="CannotClaimRoute_AlreadyClaimedRoute">这条路已经铺好</string>
+    <string key="CannotClaimRoute_AlreadyClaimedParallelRoute">你已经铺好这条双车道</string>
+
+    <!-- **** Localization Kit 2 **** -->
+    <string key="LocalGame_PlayerLeft_Title">玩家离开游戏</string>
+    <string key="LocalGame_PlayerLeft_MessageFormat">%s 离开了游戏. 你可以在他回来之后到局域网游戏面板选择继续.</string>
+
+    <string key="ScoringRecapController_RankScoreTitle">名次</string>
+    <string key="NewELOScoreMessageBoxController_Message">恭喜! 你的名次提升了!</string>
+    <string key="RankScoreEvolutionPanel_NbGamesToPlayToBeEstablished_Format">玩多 %d 局在线排名游戏以上榜</string>
+
+    <string key="DoneButtonTitle">完成</string>
+
+    <string key="RankScoreEvolutionPanel_CannotDisplayEvolutionLabel">有些玩家没上榜.
+所以, 名次变化不可用.</string>
+
+    <!-- Focus Navigation -->
+    <string key="SelectRoute">铺一条路.</string>
+    <string key="SelectRouteColor">选一个颜色铺选中的路.</string>
+    <string key="SelectCityColor">选一个颜色设立选中的车站.</string>
+
+    <string key="PingLostError_Title">尝试重连中...</string>
+    <string key="PingLostError_Message">如果这条消息没有自动关闭, 按此按钮并在继续页面以继续游戏.</string>
+    <string key="PingLostError_Button">回到大厅</string>
+
+    <string key="CreateGameSetupPanel_InstantBotHotswap_Label">缺席玩家即时由机器人托管</string>
+    <string key="JoinGameSetupTab_InstantBotHotswap_Label">即时托管</string>
+    <string key="QuitSingleSessionGame_Message">你是否要放弃这局游戏?
+你会被机器人托管.</string>
+    <string key="Resume_SingleSessionGame_Title">活跃中的游戏</string>
+    <string key="Resume_SingleSessionGame_Message">你在活跃中的游戏被机器人托管. 是否继续?</string>
+    <string key="QuitSingleSessionGame_MessageWhenOnlyOnePlayerLeft">你是否要放弃这局游戏?
+你是最后一位玩家 游戏将被中止.</string>
+
+    <string key="BackMenuController_TV_leaveMenu">菜单</string>
+
+    <string key="CreateGameSetupPanel_MinimimScore_Label">最低名次</string>
+    <string key="CreateGameSetupPanel_AllScore_Label">全部</string>
+
+    <string key="JoinGameSetupTab_FilterRanking_Title">排名</string>
+    <string key="JoinGameSetupTab_FilterRanked_Label">计分</string>
+    <string key="JoinGameSetupTab_FilterNotRanked_Label">不计分</string>
+    <string key="JoinGameSetupTab_FilterPrivacy_Title">隐私</string>
+    <string key="JoinGameSetupTab_FilterPublic_Label">公开</string>
+    <string key="JoinGameSetupTab_FilterPrivate_Label">私人</string>
+    <string key="JoinGameSetupTab_FilterGameMode_Title">模式</string>
+    <string key="JoinGameSetupTab_FilterReplacedByBot_Label">托管</string>
+    <string key="JoinGameSetupTab_FilterNotReplacedByBot_Label">未托管</string>
+
+    <string key="LocalPlayPanel_AppleSwitchLabel">仅限苹果设备</string>
+
+    <string key="LocalPlayPanel_MoreInfoTitle">局域网兼容模式</string>
+    <string key="LocalPlayPanel_MoreInfoMessage">打开 &quot;仅限苹果设备&quot; 按钮, 只有在同一WiFi或者蓝牙的苹果设备才能一起玩 (iPhone/iPad 需要 iOS 7 更新, Mac 需要 macOS 10.10 或更新).
+
+反之任意设备皆可, 但仅限WiFi.</string>
+
+    <string key="LocalGameParticipantsDialog_GameCreated_AppleOnly">请等待附近的人加入你的游戏...
+
+你的朋友必须在苹果设备运行应用 (iPhone, iPad 或 Mac) 并开启WiFi或蓝牙
+
+非苹果设备无法加入你的游戏.</string>
+
+    <string key="LocalGameParticipantsDialog_GameCreated_Generic">请等待附近的人加入你的游戏...
+
+你的朋友可在任意设备运行应用并在同一WiFi (不支持蓝牙).</string>
+
+    <string key="LocalGameParticipantsDialog_GameJoinedFormat">你加入了 %s 创建的游戏.
+
+请稍候...</string>
+
+    <string key="LocalGameParticipantsDialog_ResumingGame">请等待缺席玩家继续游戏.</string>
+
+    <string key="LocalPlayPanel_YourNameLabel">你的名字</string>
+
+    <string key="LocalPlay_PickServerLabel">请选择一个服务器加入</string>
+    <string key="LocalPlay_NoServersLabel">无可用服务器</string>
+
+<string key="HandBuilderDialog_Title">选择卡牌</string>
+<string key="Murmansk-Lieksa-HandBuilderDialog_Message">你可以使用任意4张牌 (包括车头) 代替一张任意颜色的牌.</string>
+<string key="Ferries-HandBuilderDialog_MessageFormat">你必须每格车头都出一张车头牌来铺渡轮路.
+你也可以用任意3张牌来代替一个车头位.
+你刚刚铺的这条路有 %d 个车头位.</string>
+
+<string key="HandBuilderDialog_ClaimButton">铺路</string>
+<string key="HandBuilderDialog_PurchaseButton">购买</string>
+
+<string key="CreateGameSetupSidePanel_Find_Button">搜索</string>
+<string key="CreateGameSetupSidePanel_FindDoWPlayer_Placeholder">用户名搜索玩家</string>
+<string key="CreateGameSetupSidePanel_FindOpponent_Placeholder">查找近期对手</string>
+<string key="CreateGameSetupSidePanel_LoginNotFound_MessageFormat">没有搜索到用户 %s.</string>
+<string key="CreateGameSetupSidePanel_NoRecentOpponents_Message">你最近没有任何对手.</string>
+
+<string key="StatusMessage_BuyStockShares">请选择给你共享的库存</string>
+<string key="StatusMessage_BuyStockShares_ForDummyPlayer">请选择给机器玩家共享的库存</string>
+<string key="DummyPlayerName">机器玩家</string>
+<string key="StockShareHistogramPanelController_Title">共享库存</string>
+<string key="SoldOutShareLabel">售罄</string>
+
+<string key="FirstTicketsMessageBox_Title">开局路线</string>
+<string key="AskForTicketsMessageBoxController_Message">请选择短线和长线的组合</string>
+<string key="AskForTicketsMessageBoxController_ShortTickets">短</string>
+<string key="AskForTicketsMessageBoxController_LongTickets">长</string>
+
+<string key="PasswordStrength_0_Label">很弱</string>
+<string key="PasswordStrength_1_Label">弱</string>
+<string key="PasswordStrength_2_Label">一般</string>
+<string key="PasswordStrength_3_Label">强</string>
+<string key="PasswordStrength_4_Label">很强</string>
+
+<!-- Cross Promo -->
+<subPool name="cross-promo.xml"/>
+
+<string key="BoilerLagging">锅炉渣</string>
+<string key="Booster">增压器</string>
+<string key="DoubleHeading">双头</string>
+<string key="IrelandFranceConcession">爱尔兰 / 法国 租界</string>
+<string key="MechanicalStoker">机械加煤机</string>
+<string key="Propellers">螺旋桨</string>
+<string key="RightOfWay">通行权</string>
+<string key="ScotlandConcession">苏格兰租界</string>
+<string key="SteamBoiler">高温蒸汽锅炉</string>
+<string key="SteamTurbine">汽轮机</string>
+<string key="WalesConcession">威尔士租界</string>
+<string key="Thermocompressor">热压机</string>
+<string key="WaterTenders">水位计</string>
+<string key="RiskyContracts">风险合约</string>
+<string key="EqualisingBeam">平衡梁</string>
+<string key="DieselPower">柴油动力</string>
+<string key="CannotClaimRoute_TechnologyRequired_MessageFormat">你需要 %s 科技来铺这条路</string>
+
+<string key="TechnologyDescription_WalesConcession">允许你在威尔士的任意5个城市铺路.</string>
+<string key="TechnologyDescription_IrelandFranceConcession">允许你在爱尔兰的任意10个城市和入法线铺路.</string>
+<string key="TechnologyDescription_ScotlandConcession">允许你在苏格兰的任意10个城市铺路Allows you to claim routes into any of 10 cities in Scotland.</string>
+<string key="TechnologyDescription_MechanicalStoker">允许你铺3格长的路.</string>
+<string key="TechnologyDescription_SteamBoiler">允许你铺4到6格长的路. 铺3格长的路依然需要机械加煤机.</string>
+<string key="TechnologyDescription_Propellers">允许你铺渡轮路.</string>
+<string key="TechnologyDescription_Booster">你可以用任意3张牌当一张车头 (原本要4张).</string>
+<string key="TechnologyDescription_BoilerLagging">购买锅炉渣后 每铺一条路额外加一分. 与汽轮机配合使用 每条渡轮路额外加3分.</string>
+<string key="TechnologyDescription_SteamTurbine">购买汽轮机后 每铺一条渡轮路额外加2分. 与锅炉渣配合使用 每条渡轮路额外加3分.</string>
+<string key="TechnologyDescription_DoubleHeading">游戏结束时 每条完成的路线额外加2分.</string>
+<string key="TechnologyDescription_RightOfWay">你可以打出这张牌以铺一条已被其他玩家铺好的路. 出本卡时, 你依然必须出正确数量的牌来铺路. 获得本卡时 你必须当场铺路, 铺路后, 退回本卡以让其他玩家获得.</string>
+<string key="TechnologyDescription_Thermocompressor">本回合铺两条路, 然后退回本卡.</string>
+<string key="TechnologyDescription_WaterTenders">摸火车牌时, 你可以选择摸3张盲牌.</string>
+<string key="TechnologyDescription_RiskyContracts">游戏结束时, 如果你有最多完成的车票 加20分. 反之扣分.\n本卡必须在火车牌洗牌前购买. 洗牌后, 本卡无法购买.</string>
+<string key="TechnologyDescription_EqualisingBeam">游戏结束时, 如果你有最长的路线 加15分. 反之扣分.\n本卡必须在火车牌洗牌前购买. 洗牌后, 本卡无法购买.</string>
+<string key="TechnologyDescription_DieselPower">铺路时, 你可以少出一张牌. 你依然至少出一张牌, 并且渡轮路的车头不可少出.</string>
+
+<string key="TechnologyCost_Singular">花费 : 1 车头</string>
+<string key="TechnologyCost_Plural">花费 : %d 车头</string>
+
+<string key="CannotClaimTechnology_AlreadyPickTechnology">你已在本回合购买科技</string>
+<string key="CannotClaimTechnology_AlreadyOwnTechnology">你已有此科技</string>
+<string key="CannotClaimTechnology_NotYourTurn">还没轮到你. 轮到你之后 在行动之前购买科技</string>
+<string key="CannotClaimTechnology_NotEnoughCards">你没有足够的牌购买此科技</string>
+<string key="CannotClaimTechnology_NoMoreTechnology">太迟了! 这个科技不再可用</string>
+
+<string key="UKMultiplePossibilities">任意 %d 张牌可以当作一张车头打出</string>
+
+<string key="Pass_DialogBox_Title">跳过热压机效果</string>
+<string key="Pass_DialogBox_Message">你是否要跳过?</string>
+
+<string key="RightOfWay_DialogBox_Title">跳过风险合约效果</string>
+<string key="RightOfWay_DialogBox_Message">你将不铺路并结束回合. 你购买风险合约的卡牌不予退回.</string>
+<string key="Thermocompressor_DialogBox_Message">你将不铺第二条路并结束回合. 你购买热压机的卡牌不予退回.</string>
+
+<string key="Pass">过牌</string>
+<string key="ViewMap">预览</string>
+<string key="Return">返回</string>
+
+<string key="NoTechnologyYet">你还没有买任何科技.</string>
+<string key="NoShareYet">你还没有共享.</string>
+
+<string key="CannotClaimRoute_TrackPieceRequired">你必须在别人铺路之前建造路线 (摆放车厢)</string>
+<string key="CannotClaimRoute_ForbiddenRouteHasTrackPiece">因为车厢阻断 你不能在这铺路</string>
+<string key="CannotClaimRoute_ForbiddenRouteIsBuild">因为被别的路阻断 你不能在这铺路</string>
+
+<string key="CannotPutTrackPiece_Title">无法摆放车厢</string>
+<string key="CannotPutTrackPiece_NoDoubleRoutes">在2-3人游戏中, 双或三车道只能通一条车道</string>
+<string key="CannotPutTrackPiece_NotTrackBedType">这里没有轨道床. 你只能放车厢在轨道床上</string>
+<string key="CannotPutTrackPiece_AlreadyPutTrackPiece">这条路已经有车厢</string>
+<string key="CannotPutTrackPiece_ForbiddenRouteHasTrackPiece">因为被车厢阻断 你不能在这条路放车厢</string>
+<string key="CannotPutTrackPiece_ForbiddenRouteIsBuild">因为已经有人铺路阻断 你不能在这条路放车厢</string>
+<string key="CannotPutTrackPiece_TrackPieceNotAvailable">这个颜色没有 %d 长度的车厢.</string>
+<string key="CannotPutTrackPiece_AlreadyClaimedRoute">因为已经有人铺路 你不能在这条路放车厢.</string>
+
+<string key="PassTrackPiece_DialogBox_Title">没有更多可用车厢</string>
+<string key="PassTrackPiece_DialogBox_Message">你本轮不可使用车厢</string>
+
+<string key="CreateGameSetupPanel_PlayLink_PlayerName">你叫什么名字?</string>
+<string key="CreateGameSetupPanel_PlayLink_Title">欢迎同路人!</string>
+<string key="CreateGameSetupPanel_PlayLink_ConnectionWarning_Title">警告</string>
+
+<string key="MainScreen_PlayLink_RequirementTitle">需求</string>
+<string key="MainScreen_PlayLink_DownloadTitle">现在获取!</string>
+<string key="MainScreen_PlayLink_ConnectionTitle">连接</string>
+<string key="MainScreen_PlayLink_DeviceNeeded">每位玩家都需要一台设备</string>
+<string key="MainScreen_PlayLink_AppNeeded">下载我们的免费 app</string>
+<string key="MainScreen_PlayLink_NoInternetTitle">没有检测到网络连接!</string>
+<string key="MainScreen_PlayLink_InternetTitle">检测到网络连接!</string>
+<string key="MainScreen_PlayLink_WifiDirectButtonLabel_Activate">或者打开你 PS4™ 的 WiFi Direct</string>
+<string key="MainScreen_PlayLink_WifiDirectButtonLabel_Deactivate">关闭 WiFi Direct</string>
+<string key="MainScreen_PlayLink_WifiDirectInfoLabel">你需要 WiFi 来游玩</string>
+<string key="MainScreen_PlayLink_WifiDirectWarningLabel">这将切断任何网络连接</string>
+<string key="MainScreen_PlayLink_WifiDirectNameTitle">将你的设备连到本 WiFi:</string>
+
+<string key="MainScreen_PlayLink_WelcomeTitle">欢迎来到\nTICKET TO RIDE</string>
+<string key="MainScreen_PlayLink_GameModeTitle">选择游戏模式</string>
+<string key="MainScreen_PlayLink_InternetPS4Needed">你需要:\n- WiFi 网络\n- 一台 PlayStation®4 游戏机 和 Ticket To Ride for PlayLink</string>
+<string key="MainScreen_PlayLink_NeverPlayed">从来没玩过?</string>
+<string key="MainScreen_PlayLink_AutoConnection">在 %ds 内重新连接到 %s ...</string>
+
+<string key="MaxPlayerLabel">最多 %d 位玩家</string>
+
+<string key="KickedOutTitle">踢出</string>
+<string key="KickedOutMessage_Format">你确定要踢出 %s?</string>
+
+<string key="UnlockMap_Format">你是否想购买 %s 地图?</string>
+
+<string key="PlayLink_SearchingServersLabel">寻找服务器...</string>
+<string key="PlayLink_ConnectionTip_1">确保与 PlayStation®4 游戏机连接相同的WiFi.</string>
+<string key="PlayLink_ConnectionTip_2">如果你没有WiFi 你应该在 PlayStation®4 游戏机打开WiFi Direct.</string>
+<string key="PlayLink_ConnectionTip_3">如果使用 WiFi Direct, 使用屏幕上显示的密码连接WiFi.</string>
+<string key="PlayLink_ConnectionTip_4">部分游戏设定限制3或4人.</string>
+
+<string key="News_FirstPlayerRequest">%s 想要先手</string>
+<string key="News_NoMoreAvailableSeat">%s 加入游戏失败.</string>
+<string key="News_MaxPlayerExceeded">超过了这张地图的 %s 人上限.</string>
+<string key="News_MapUnlock">%s 地图已解锁.</string>
+
+<string key="IntroScreen_LateText">因面包烤糊而宕机</string>
+<string key="IntroScreen_LateTextTitle">延迟理由</string>
+<string key="IntroScreen_LateTimeTitle">预计等待时间</string>
+
+<string key="QuitPlayLink_Server_Message">如果你离开游戏 所有玩家都会断开连接.\n确定?</string>
+<string key="QuitPlaylink_Message">你确定要离开游戏?</string>
+<string key="QuitPlaylink_ServerAborted_Message">服务器中止了游戏.</string>
+<string key="QuitPlaylink_AllPlayersLeft_Message">所有玩家已离开游戏.</string>
+
+<string key="SettingsScreen_VibrationOption_label">振动</string>
+
+<string key="UpdateRequirement_Title">需要更新</string>
+<string key="UpdateRequirementClient_Message">你需要更新设备中的应用以游玩</string>
+<string key="UpdateRequirementServer_Message">你需要更新 PlayStation®4 中的应用以游玩</string>
+
+<string key="CameraPermissionTitle">需要摄像头权限</string>
+<string key="CameraPermissionRequestMessage">应用需要摄像头权限来选择照片设置头像. 是否允许?</string>
+<string key="CameraPermissionSettingsMessage">应用需要摄像头权限来选择照片设置头像. 是否现在打开设置并允许?</string>
+
+<string key="PlayLink_Reconnecting_Title">重连中</string>
+<string key="PlayLink_Reconnecting_Message">尝试重连中..\n%d秒后中止.</string>
+<string key="Unexpected_Error_Title">意外错误</string>
+
+<string key="PeriodicChallenge_NoSetupTodayTitle">今日无挑战</string>
+<string key="PeriodicChallenge_NoSetupMessage">今日没有每周挑战, 晚点再来!</string>
+
+<string key="PeriodicChallenge_NoConnectionTitle">无网络连接</string>
+<string key="PeriodicChallenge_NoConnectionMessage">需要网络连接来获取每周挑战.</string>
+
+<string key="BuyButton">购买</string>
+<string key="CreditsButton">制作人员</string>
+<string key="EULAButton">用户许可</string>
+
+<string key="PurchaseSuccessful_Title">购买成功!</string>
+<string key="PurchaseCancelled_Title">购买取消!</string>
+<string key="PurchaseError_Title">购买错误!</string>
+<string key="PurchaseSuccessful_Message">感谢你的购买!</string>
+<string key="PurchaseCancelled_Message">你是否要取消购买?</string>
+<string key="PurchaseError_Message">发生错误 无法处理购买. 是否重试?</string>
+<string key ="News_NewHumanPlayer">%s 加入了游戏.</string>
+<string key ="PlayScreen_PlayLink_PlayerInstructionNoPlayer">在手机上的 Ticket to Ride for PlayLink 应用按局域网游戏按钮</string>
+<string key ="PlayScreen_PlayLink_PlayerInstructionOneHumanAlone">加一个机器人一起玩 或者帮其他玩家连接</string>
+<string key ="PlayScreen_PlayLink_PlayerInstructionSeveralPlayers">在手机上的 Ticket to Ride for PlayLink 应用按开始按钮以开始游戏</string>
+
+<string key ="StatusMessage_OneCardPicked">你必须摸两张火车牌. 一次摸一张, 从5张明牌中摸 或牌堆中摸皆可.
+如果你摸车头明牌 回合结束.</string>
+<string key ="RulesPoint_trackPiece">摸牌遵循与核心游戏完全相同的规则, 如果玩家选择这么做 TA也必须铺一条轨道床. 摸牌后, TA选择任意一条车厢放到相应长度的轨道床上. 车厢决定了铺路的颜色.</string>
+
+<string key ="LookAtTheTV_Title">看电视</string>
+<string key ="LookAtTheTV_Message">看电视屏幕</string>
+
+<string key="RulesPoint_Title">规则点</string>
+<string key="StatusMessage_PickTrackPiece">摆放车厢</string>
+<string key="PlayScreen_PlayLink_PlayerInstructionTooManyPlayers">太多玩家. 删除一些机器人或玩家</string>
+<string key="AllTicketsValidatedCongratulations_Title">恭喜!</string>
+<string key="AllTicketsValidatedCongratulations_Message">你已经完成所有的车票!</string>
+<string key="AllTicketsValidatedCongratulations_MainMessage">你可以再摸新的车票.</string>
+<string key="AllTicketsValidatedCongratulations_SecondaryMessage">记住: 你必须至少留一张摸到的车票. 再记住: 游戏结束时, 如果两座城市没有连通 将会扣分.</string>
+<string key="SelectTrackPieceColor">选择轨道的颜色.</string>
+<string key="ResumeGame_OutdatedSaveFile">存档来自旧的版本. 你的应用无法继续游戏.</string>
+<string key="PlayLink_RulesEngineIncompatibility_Title">不兼容的版本</string>
+<string key="PlayLink_RulesEngineIncompatibility_Message">其中一位玩家的应用 或你 PS4™ 的应用未更新. 请检查更新.</string>
+<string key="News_Client_OutdatedVersionHumanPlayer">你的应用版本太旧.</string>
+<string key="News_Server_OutdatedVersionHumanPlayer">%s 的应用版本太旧.</string>
+<string key="News_Client_RecentVersionHumanPlayer">你的应用版本太新.</string>
+<string key="News_Server_RecentVersionHumanPlayer">%s 的应用版本太新.</string>
+<string key="Resume_RulesEngineVersionIncompatible">因为你的版本与 PS4™ 的版本不兼容 你无法再开始此游戏. 请开始新游戏.</string>
+<string key="ForbiddenOpenGame_NotOwnMap">你还没有 %s 扩展包. 为什么不买呢?</string>
+<string key="ForbiddenOpenGame_NotOwnMap_uwp">你还没有 %s 附加包. 为什么不买呢?</string>
+<string key="ForbiddenOpenGame_NotOwnMap_ps4">你还没有 %s 附加包. 为什么不买呢?</string>
+<string key="RulesPoint_SelectMoreTicket">你还要选择 %s 张车票</string>
+<string key="PopUpMessage_NotEnoughCards_Singular">需要 %d 张 %s 色牌</string>
+<string key="PopUpMessage_NotEnoughCards_Plural">需要 %d 张 %s 色牌</string>
+<string key="PopUpMessage_NotEnoughCards">你需要 %s 张牌来铺这张路</string>
+<string key="SelectHintId">选择</string>
+<string key="UnselectHintId">取消选择</string>
+<string key="BuyTechnoHintId">购买科技</string>
+<string key="ShowSharesHintId">查看共享</string>
+<string key="ShowTrackPiecesHintId">查看车厢节数</string>
+<string key="ClaimStationHintId">设立车站</string>
+<string key="NextCardsHintId">下一张牌</string>
+<string key="ClaimRouteHintId">铺路</string>
+<string key="NextTrackPiecesHintId">下一节车厢</string>
+<string key="NextTicketsHintId">下一张牌</string>
+
+<string key="CannotClaimAction_NotEnoughCards">你没有足够的火车牌这么做</string>
+
+<string key="ChooseButtonTitle">选择</string>
+
+<string key ="StatusBanner_Minor">Asmodee 服务正有小问题. 了解更多...</string>
+<string key ="StatusBanner_Major">Asmodee 服务正有大问题. 了解更多...</string>
+<string key ="StatusBanner_Critical">Asmodee 服务正有严重问题. 了解更多...</string>
+
+<string key="DisconnectedControllerTitleId">连接性差</string>
+<string key="DisconnectedControllerConnectId">连接手柄以继续</string>
+
+<string key="GetGamePlayerInfoHintId">游戏详情</string>
+<string key="GetPlayerInfoHintId">玩家详情</string>
+<string key="RouteStationSwitch_Title">路线/车站 切换</string>
+
+<string key="RateApp_Title">给应用评分!</string>
+<string key="RateApp_Message">如果你喜欢玩这个应用, 是否愿意花点时间评分?\n不会花超过一分钟.\n\n感谢支持!</string>
+<string key="RateApp_Ok">现在评分</string>
+<string key="RateApp_No">不用了, 谢谢</string>
+<string key="RateApp_Later">稍后</string>
+
+<string key="AlreadyOwnExtension_Message">你已拥有此扩展包</string>
+<string key="AlreadyOwnExtension_Message_uwp">你已拥有此附加包</string>
+<string key="AlreadyOwnExtension_Message_ps4">你已拥有此附加包</string>
+
+<string key="RemovePlayerHintId">移除邀请</string>
+<string key="AddInvitePlayerHintId">邀请玩家</string>
+
+<string key="VoiceChatMuteHintId">关闭麦克风</string>
+<string key="VoiceChatUnmuteHintId">打开麦克风</string>
+<string key="ScreenZoomSettingLabel">窗口缩放</string>
+<string key="SettingsScreen_MicroSettingsLabel">麦克风</string>
+<string key="SettingsScreen_ChatLabel">聊天</string>
+
+<string key="Discount_SpecialOffer">特价</string>
+
+<string key="OSIncompatibility_Title">不兼容的操作系统</string>
+<string key="OSIncompatibility_Message">你的操作系统太旧. \n出于安全关闭部分功能 (登录到 Days of Wonder 账户, 在线游戏, 在线排名).</string>
+
+<string key="DiscoveryOfferId">探索特价</string>
+<string key="BuySoloId">仅购买 %s</string>
+<string key="BuyBundleId">购买 %s + %s</string>
+<string key="AtLeastId">至少</string>
+<string key="PercentId">%s</string>
+<string key="OffOnId">减免 %s</string>
+
+<string key ="StatusBanner_Maintenance">Asmodee 服务当前维护中. 了解更多...</string>
+
+<!-- Localization Kit -->
+<!-- TODO Localize these strings in Chinese -->
+<string key="PeriodicChallenge_EmptyLeaderboardIncentive">排名</string>
+<string key="PeriodicChallenge_Stat_score">分数</string>
+<string key="PeriodicChallenge_Stat_completed_tickets_count">车票</string>
+<string key="PeriodicChallenge_Stat_turn_count">回合</string>
+<string key="PeriodicChallenge_Stat_main_leaderboard">最终分数</string>
+<string key="PeriodicChallenge_EmptyLeaderboardIncentive">领先!</string>
+<string key="PeriodicChallenge_BadVersionTitle">你的应用版本已过时</string>
+<string key="PeriodicChallenge_BadVersionMessage">看起来你没有正确的应用版本. 你需要更新最新版本才能玩每周挑战并计分.</string>
+<string key="PeriodicChallenge_UnpublishedStatsFound">我们发现这个每周挑战的分数是在未登录账户的时候缓存的.​</string>
+<string key="PeriodicChallenge_UnpublishedStatsRecordPrompt">你是否想记录到你的 Asmodee.net 资料到我们的服务器 ?​</string>
+<string key="PeriodicChallenge_UnpublishedStatsBtn_OK">OK​</string>
+<string key="PeriodicChallenge_UnpublishedStatsBtn_NotNow">暂不</string>
+<string key="PeriodicChallenge_UnpublishedStatsBtn_Forget">忘记这个分数</string>
+<string key="CurrentPlayerAbsent_Title">你的对手现在不在</string>
+<string key="CurrentPlayerAbsent_Message">如果你允许通知, 你可以在等他的期间休息. 轮到你时会推送通知.</string>
+
+</strings>

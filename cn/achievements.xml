@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- Achievements Descriptions -->
+    <string key="T2RAchievementDescription_Conductor_Level1">玩 20 场游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_Conductor_Level2">玩 100 场游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_Conductor_Level3">玩 1,000 场游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_Conductor_Level4">玩 5,000 场游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_Conductor_Level5">玩 20,000 场游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementDescription_PressureGauge_80">得分 80+. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_120">得分 120+. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_160">得分 160+. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_200">得分 200+. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_240">得分 240+. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementDescription_PunchedTickets_3">完成 3 条路线. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_6">完成 6 条路线. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_9">完成 9 条路线. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_12">完成 12 条路线. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_15">完成 15 条路线. (仅限单人美国地图)</string>
+
+    <string key="T2RAchievementDescription_Hobo">没有完成一张车票赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_Trestle">没有铺1和2格路赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_HandCar">不使用车头赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_Transcontinental">以单条路线45节车厢赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_CoalTender">铺满黑色路线赢得游戏. (仅限单人美国地图)</string>
+
+    <string key="T2RAchievementDescription_EconomyClass">一直手持不超过10张火车牌赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_PockerPlayer">完成所有 &quot;5&quot; 格的车票赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_OldMovies">只铺灰色路线赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_RailwayTycoon">与4位Vanderbot Jr.(困难机器人)玩并赢得游戏. (仅限单人美国地图)</string>
+    <string key="T2RAchievementDescription_DynamiteJoe">对手没有完成任何路线赢得游戏. (仅限单人美国地图)</string>
+
+    <string key="T2RAchievementDescription_UrbanTraveller">连通所有7个大城市赢得游戏 (大城市玩法). (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_FirstTracks">仅完成开局的5条路线赢得游戏 (Mega玩法). (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_ModestEntrepreneur">不赢得两种奖励分赢得游戏 (Mega玩法). (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_300">得分 300+ (Mega玩法). (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_PressureGauge_400">得分 400+ (Mega玩法). (仅限单人游戏)</string>
+
+    <string key="T2RAchievementDescription_StationRat">用上3座车站赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_OrientExpress">连通 London, Paris, München, Wien, Budapest, Bucuresti 和 Constantinople完成游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_RomanovTrain">连通所有11个俄罗斯帝国城市 Petrograd - Riga - Wilno - Warszawa - Smolensk - Moskva - Kyiv - Kharkov - Rostov - Sevastopol - Sochi赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_NationalRailways">不使用长途车票完成游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_BalticExplorer">以单条路线45节车厢并穿过8格隧道赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementDescription_AlphornPlayer">不完成任何跨国车票赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_ChocolateExporter">连通所有4个邻国赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_ValleyCommuter">不铺任何隧道赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_TicketPuncher">抽完所有路线牌赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_LakeExpress">连通所有大瑞士湖赢得游戏 (Geneve or Lausanne, Neuchatel, Interlaken, Zurich, Lugano, Locarno, Kreuzlingen). (仅限单人游戏)</string>
+
+    <string key="T2RAchievementDescription_MountainHermit">只连通山路赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_MarcoPolo">单个网络连通22个城市并赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_DoubleTrouble">只完成两条路线赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_FasterThanMongolianHorse">用24回合及以内赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_AsiaPassport">获得所有大亚洲地图专属成就. (仅限单人游戏)</string>
+
+    <!-- Achievements Name -->
+
+    <string key="T2RAchievementName_Conductor_Level1">领导等级 1</string>
+    <string key="T2RAchievementName_Conductor_Level2">领导等级 2</string>
+    <string key="T2RAchievementName_Conductor_Level3">领导等级 3</string>
+    <string key="T2RAchievementName_Conductor_Level4">领导等级 4</string>
+    <string key="T2RAchievementName_Conductor_Level5">领导等级 5</string>
+
+    <string key="T2RAchievementName_PressureGauge_80">压力值 80</string>
+    <string key="T2RAchievementName_PressureGauge_120">压力值 120</string>
+    <string key="T2RAchievementName_PressureGauge_160">压力值 160</string>
+    <string key="T2RAchievementName_PressureGauge_200">压力值 200</string>
+    <string key="T2RAchievementName_PressureGauge_240">压力值 240</string>
+
+    <string key="T2RAchievementName_PunchedTickets_3">3 张打孔票</string>
+    <string key="T2RAchievementName_PunchedTickets_6">6 张打孔票</string>
+    <string key="T2RAchievementName_PunchedTickets_9">9 张打孔票</string>
+    <string key="T2RAchievementName_PunchedTickets_12">12 张打孔票</string>
+    <string key="T2RAchievementName_PunchedTickets_15">15 张打孔票</string>
+
+    <string key="T2RAchievementName_Hobo">流浪汉</string>
+    <string key="T2RAchievementName_Trestle">支架</string>
+    <string key="T2RAchievementName_HandCar">手推车</string>
+    <string key="T2RAchievementName_Transcontinental">贯穿大陆</string>
+    <string key="T2RAchievementName_CoalTender">煤炭招标</string>
+
+    <string key="T2RAchievementName_EconomyClass">二等座</string>
+    <string key="T2RAchievementName_PockerPlayer">扑克玩家</string>
+    <string key="T2RAchievementName_OldMovies">老片</string>
+    <string key="T2RAchievementName_RailwayTycoon">4 个 Vanderbot</string>
+    <string key="T2RAchievementName_DynamiteJoe">炸药乔</string>
+
+    <string key="T2RAchievementName_UrbanTraveller">城市游客</string>
+    <string key="T2RAchievementName_FirstTracks">第一轨道</string>
+    <string key="T2RAchievementName_ModestEntrepreneur">谦虚企业家</string>
+    <string key="T2RAchievementName_PressureGauge_300">压力值 300</string>
+    <string key="T2RAchievementName_PressureGauge_400">压力值 400</string>
+
+    <string key="T2RAchievementName_StationRat">过站老鼠</string>
+    <string key="T2RAchievementName_OrientExpress">东方快线</string>
+    <string key="T2RAchievementName_RomanovTrain">罗曼诺夫铁路</string>
+    <string key="T2RAchievementName_NationalRailways">国家铁路</string>
+    <string key="T2RAchievementName_BalticExplorer">波罗的海探索者</string>
+
+    <string key="T2RAchievementName_AlphornPlayer">阿尔卑斯长号</string>
+    <string key="T2RAchievementName_ChocolateExporter">巧克力出口商</string>
+    <string key="T2RAchievementName_ValleyCommuter">山谷通勤</string>
+    <string key="T2RAchievementName_TicketPuncher">检票员</string>
+    <string key="T2RAchievementName_LakeExpress">湖泊快线</string>
+
+    <string key="T2RAchievementName_MountainHermit">山中隐士</string>
+    <string key="T2RAchievementName_MarcoPolo">马可波罗</string>
+    <string key="T2RAchievementName_DoubleTrouble">双重麻烦</string>
+    <string key="T2RAchievementName_FasterThanMongolianHorse">快过蒙古马</string>
+    <string key="T2RAchievementName_AsiaPassport">亚洲护照</string>
+
+    <string key="T2RAchievementName_PumpkinMaster">南瓜大师</string>
+    <string key="T2RAchievementDescription_PumpkinMaster">铺满所有橙色路线 [万圣节]. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_GhostCatcher">幽灵捕手</string>
+    <string key="T2RAchievementDescription_GhostCatcher">抓5只幽灵 [万圣节]. (仅限单人游戏)</string>
+
+    <!-- NEW INDIA Achievements -->
+    <string key="T2RAchievementName_Fakir">骗子</string>
+    <string key="T2RAchievementDescription_Fakir">不获得曼陀罗奖励分赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_HandOfKali">时母之手</string>
+    <string key="T2RAchievementDescription_HandOfKali">阻止所有对手获得曼陀罗奖励分赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_MandalaMaharaja">曼陀罗大君</string>
+    <string key="T2RAchievementDescription_MandalaMaharaja">获得5个曼陀罗奖励分赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_BritishRajTour">英属印度之旅</string>
+    <string key="T2RAchievementDescription_BritishRajTour">环线连通 Delhi, Calcutta, Madras 和 Bombay 并赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_IndiaPassport">印度护照</string>
+    <string key="T2RAchievementDescription_IndiaPassport">获得所有印度地图专属成就. (仅限单人游戏)</string>
+
+    <!-- Nordic Countries Achievements -->
+    <string key="T2RAchievementName_SantaExpress">圣诞老人快线</string>
+    <string key="T2RAchievementDescription_SantaExpress">连通 Murmansk 和 Lieksa 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_ArcticCircle">北极圈</string>
+    <string key="T2RAchievementDescription_ArcticCircle">连通北极圈北部7个城市: Narvik, Kiruna, Rovaniemi, Tromso, Kirkenes, Murmansk 和 Honningsvag 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_PoleExpress">极速快车</string>
+    <string key="T2RAchievementDescription_PoleExpress">用24节车厢连通 Arhus 到 Honningsvag 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_LandLines">陆线</string>
+    <string key="T2RAchievementDescription_LandLines">不使用渡轮赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_NordicPassport">北欧护照</string>
+    <string key="T2RAchievementDescription_NordicPassport">获得所有北欧国家地图专属成就. (仅限单人游戏)</string>
+
+    <!-- Europa 1912 Achievements -->
+    <string key="T2RAchievementName_MoneyMileage">里程就是金钱</string>
+    <string key="T2RAchievementDescription_MoneyMileage">至少铺3条10分及以上的路赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Diagonal">相信对角线</string>
+    <string key="T2RAchievementDescription_Diagonal">连通 Cadiz 到 Petrograd 或者 Edinburgh 到 Erzurum 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Mediterranean">明媚地中海</string>
+    <string key="T2RAchievementDescription_Mediterranean">连通 Cadiz, Barcelona, Marseille, Roma 和 Palermo 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Bowtie">禁止打结</string>
+    <string key="T2RAchievementDescription_Bowtie">不经过 Zurich, München, Wien, Budapest, Zagrab 和 Venezia 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Mole">鼹鼠</string>
+    <string key="T2RAchievementDescription_Mole">在隧道使用至少23节车厢赢得游戏. (仅限单人游戏)</string>
+
+    <!-- Pennsylvania Achievements -->
+    <string key="T2RAchievementName_FingerInEveryPie">手插所有派</string>
+    <string key="T2RAchievementDescription_FingerInEveryPie">至少每家公司做出一个行动赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_ThreeOfAKind">三种</string>
+    <string key="T2RAchievementDescription_ThreeOfAKind">只用下列中的3家公司行动: Erie Lackawanna Railway, Baltimore &amp; Ohio Railroad, Pennsylvania Railroad 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Stranger">陌生人</string>
+    <string key="T2RAchievementDescription_Stranger">不以 Pennsylvania Railroad 行动 赢得游戏 (仅限双人游戏). (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_EarlyBird">早鸟</string>
+    <string key="T2RAchievementDescription_EarlyBird">至少三家公司都第一个行动 并赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_PennsylvaniaPassport">宾夕法尼亚护照</string>
+    <string key="T2RAchievementDescription_PennsylvaniaPassport">获得所有宾夕法尼亚州地图专属成就. (仅限单人游戏)</string>
+
+    <!-- Germany Achievements -->
+    <string key="T2RAchievementName_Intercities">城际</string>
+    <string key="T2RAchievementDescription_Intercities">只完成短途票赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_DasRheingold">莱因黄金</string>
+    <string key="T2RAchievementDescription_DasRheingold">15回合内连通 Switzerland, Freiburg, Karlsruhe, Mainz, Düsseldorf 和 Holland 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_BerlinTraveller">柏林游客</string>
+    <string key="T2RAchievementDescription_BerlinTraveller">连通柏林到5个邻国赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_MegaCommuter">超级通勤者</string>
+    <string key="T2RAchievementDescription_MegaCommuter">只完成长途车票赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_GermanPassport">德国护照</string>
+    <string key="T2RAchievementDescription_GermanPassport">获得所有德国地图专属成就. (仅限单人游戏)</string>
+
+    <!-- United Kingdom Achievements -->
+    <string key="T2RAchievementName_LondonCalling">伦敦的呼唤</string>
+    <string key="T2RAchievementDescription_LondonCalling">铺好所有到伦敦的路赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_BusinessAngel">商业天使</string>
+    <string key="T2RAchievementDescription_BusinessAngel">铺第一条路之前购买锅炉渣科技赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_SoManyColors">好多颜色</string>
+    <string key="T2RAchievementDescription_SoManyColors">使用4张牌换一张车头赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Titanic">泰坦尼克号</string>
+    <string key="T2RAchievementDescription_Titanic">不买螺旋桨科技拥有 Southampton 至 New York 路线赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_ILoveGinger">我爱生姜</string>
+    <string key="T2RAchievementDescription_ILoveGinger">只连通 Ireland 和 Scotland 的城市赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_MichelBerger">法国 - 威尔士</string>
+    <string key="T2RAchievementDescription_MichelBerger">连通 France 到 Wales (任意城市)赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_IVisitedWales">我去过威尔士</string>
+    <string key="T2RAchievementDescription_IVisitedWales">至少在 Wales 铺两条路 并且不在 England 铺路赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_ShesGotATicketToRide">她有张票乘车</string>
+    <string key="T2RAchievementDescription_ShesGotATicketToRide">按顺序连通 Liverpool, London 和 New-York 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_AtlanticWall">大西洋之墙</string>
+    <string key="T2RAchievementDescription_AtlanticWall">连通所有大洋洲海岸线和海峡的城市赢得比赛. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_EuropeanUnion">欧盟</string>
+    <string key="T2RAchievementDescription_EuropeanUnion">连通瑞士以外的所有国家赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_OneTwoThree">1, 2, 3!</string>
+    <string key="T2RAchievementDescription_OneTwoThree">只铺1-3格长的路赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_Impressionism">印象派</string>
+    <string key="T2RAchievementDescription_Impressionism">建造8种不同颜色的5格路. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_TheHundredDays">百日</string>
+    <string key="T2RAchievementDescription_TheHundredDays">建造拿破仑从厄尔巴岛流放归来的路线. 按 Corsica, Nice, Grenoble, Lyon 和 Paris 的顺序, 赢得游戏. (仅限单人游戏)</string>
+
+    <string key="T2RAchievementName_BleuBlancRouge">蓝白红</string>
+    <string key="T2RAchievementDescription_BleuBlancRouge">从 Marseille 到 Paris 的所有三车道都以法国国旗的颜色(蓝白红)建造. (仅限单人游戏)</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in Chinese -->
+
+</strings>
+
+<!-- achievements -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    
+    <!-- Cross Promo -->
+    <string key="CrossPromo_PlayNowLabel">现在玩</string>
+    <string key="CrossPromo_LearnMoreLabel">了解更多</string>
+    <string key="CrossPromo_CloseButton">关闭</string>
+    
+    <string key="CrossPromo_ComingSoon">敬请期待</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in Chinese -->
+    
+</strings>
+
+

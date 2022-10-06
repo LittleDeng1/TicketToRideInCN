@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <string key="ColorName_Feminine_Singular_purpleCard">紫色</string>
+    <string key="ColorName_Feminine_Singular_whiteCard">白色</string>
+    <string key="ColorName_Feminine_Singular_blueCard">蓝色</string>
+    <string key="ColorName_Feminine_Singular_yellowCard">黄色</string>
+    <string key="ColorName_Feminine_Singular_orangeCard">橙色</string>
+    <string key="ColorName_Feminine_Singular_blackCard">黑色</string>
+    <string key="ColorName_Feminine_Singular_redCard">红色</string>
+    <string key="ColorName_Feminine_Singular_greenCard">绿色</string>
+    <string key="ColorName_Feminine_Singular_locoCard">车头</string>
+    
+    <string key="ColorName_Feminine_Plural_purpleCard">紫色</string>
+    <string key="ColorName_Feminine_Plural_whiteCard">白色</string>
+    <string key="ColorName_Feminine_Plural_blueCard">蓝色</string>
+    <string key="ColorName_Feminine_Plural_yellowCard">黄色</string>
+    <string key="ColorName_Feminine_Plural_orangeCard">橙色</string>
+    <string key="ColorName_Feminine_Plural_blackCard">黑色</string>
+    <string key="ColorName_Feminine_Plural_redCard">红色</string>
+    <string key="ColorName_Feminine_Plural_greenCard">绿色</string>
+    <string key="ColorName_Feminine_Plural_locoCard">车头</string>
+
+    <!-- Localization Kit 11 -->
+    <string key="T2R_miniUSATuto_DrawVisibleCard">选一张 %s 牌.</string>
+    <string key="T2R_miniUSATuto_DrawTickets">摸车票牌堆.</string>
+    <string key="T2R_miniUSATuto_DrawCardPile">摸火车牌堆.</string>
+    <string key="T2R_miniUSATuto_ConnectCities">连通城市</string> <!-- this text is use as a title not as an instruction -->
+    <string key="T2R_miniUSATuto_How">如何?</string>
+    <string key="T2R_miniUSATuto_ClaimRoute">铺路</string>
+    <string key="T2R_miniUSATuto_WhenNoMoreCards">没有卡片了?</string>
+
+    <string key="Tutorial_WelcomeOverlay_title">欢迎旅客!</string>
+    <string key="Tutorial_WelcomeOverlay_goalTitle">你的目标</string>
+    <string key="Tutorial_ConnectOverlay_subTitleNewTickets">目标达成!</string>
+    <string key="Tutorial_ConnectOverlay_text">你必须连通 %s 和 %s</string>
+    <string key="Tutorial_ConnectOverlay_pick">选新车票</string>
+    <string key="Tutorial_ValidateOverlay_title">恭喜!</string>
+    <string key="Tutorial_ValidateOverlay_Validate">你完成了 %s 车票</string>
+    <string key="Tutorial_ValidateOverlay_first">第一张</string>
+    <string key="Tutorial_ValidateOverlay_second">第二张</string>
+    <string key="Tutorial_ValidateOverlay_third">第三张</string>
+    <string key="Tutorial_ValidateOverlay_ticketOK">你连通了 %s 到 %s</string>
+    <string key="Tutorial_ValidateOverlay_score">这个值 %d 分</string>
+    <string key="Tutorial_NewObjectfOverlay_text">现在, 请你尝试连通 %s 到 %s</string>
+    <string key="Tutorial_ClaimOverlay_subTitle">如何连通 %s 到 %s?</string>
+    <string key="Tutorial_DrawOverlay_title">摸 2 张牌</string>
+    <string key="Tutorial_DrawOverlay_title2">或者 1 张车头</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in Chinese -->
+
+</strings>

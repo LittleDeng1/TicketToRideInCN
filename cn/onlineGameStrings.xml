@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- Player Hotswap -->
+    <string key="PlayerHotswap_BecameRobot_Title">玩家离开游戏了</string>
+    <string key="PlayerHotswap_BecameRobotBecauseLeft_MessageFormat">%s 离开游戏了.
+        He's now replaced by a robot</string>
+    <string key="PlayerHotswap_BecameRobotBecauseTimeout_MessageFormat">%s 时间不足 被机器人托管.</string>
+    <string key="PlayerHotswap_BecameRobotBecauseForfeit_MessageFormat">%s 弃权 被机器人托管.</string>
+
+    <string key="PlayerHotswap_CameBack_Title">玩家回到游戏了</string>
+    <string key="PlayerHotswap_CameBack_MessageFormat">%s 继续游戏了</string>
+
+    <string key="GameTimeOut_Title">时间到</string>
+    <string key="GameTimeOut_MessageForLocalPlayerTimeout">你的时间不足了.
+        你将被机器人托管 无法再继续.</string>
+    <string key="GameTimeOut_MessageForLocalPlayerTimeout_GameAborted">你时间不足了.
+        游戏已中止.</string>
+
+    <string key="OnlineGameInfoController_TimeoutFormat">%s / 玩家</string>
+
+    <string key="OnlineGame_PartnerInviteMessage">一位朋友邀请你玩 Ticket to Ride!</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in Chinese -->
+    
+</strings>

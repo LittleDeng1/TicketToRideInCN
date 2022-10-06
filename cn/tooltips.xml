@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <string key="PlayButton_Tooltip">新游戏</string>
+    <string key="TutorialButton_Tooltip">学习如何玩 Ticket to Ride!</string>
+
+    <string key="SettingsButton_Tooltip">修改偏好设置, 查看登录信息</string>
+    <string key="HallOfFameButton_Tooltip">查看社区最高分和排名</string>
+    <string key="AchievementsButton_Tooltip">想要更多挑战?\n看看你已经完成和没有完成的成就.</string>
+    <string key="CreditsButton_Tooltip">制作人员名单</string>
+    <string key="RulesButton_Tooltip">每张地图和扩展的规则都在这里</string>
+    <string key="ForumButton_Tooltip">来看看我们的玩家社区 (和其他玩家讨论, 寻找活动, 游戏组团 或 线下约团, 等等.)</string>
+    <string key="CustomerSupportButton_Tooltip">联系支持</string>
+
+    <!-- Settings screen -->
+    <string key="Tooltip_HandToPlayButton">优化左右手玩家的操作</string>
+    <string key="Tooltip_EmoticonGenderButton">选择聊天表情的性别</string>
+    <string key="Tooltip_MuteSoundButton">音效开关</string>
+    <string key="Tooltip_MuteMusicButton">音乐开关</string>
+    <string key="Tooltip_LoginButton">查看你的账户</string>
+    <string key="Tooltip_WindowedButton">窗口/全屏切换</string>
+    <string key="Tooltip_SpeedButton">调整卡片和动画的速度</string>
+    <string key="Tooltip_SmallUIButton">UI大小切换</string>
+
+    <!-- Play screen -->
+    <string key="Tooltip_FirstPlayerRandomButton">选中后将会随机选择先手</string>
+    <string key="Tooltip_ResumeGameNoButton">删除存档</string>
+    <string key="Tooltip_ResumeGameYesButton">读取存档</string>
+    <string key="Tooltip_SoloButton">和机器人离线玩</string>
+    <string key="Tooltip_OnlineButton">和社区的其他玩家在线玩</string>
+    <string key="Tooltip_LocalButton">和局域网的朋友玩</string>
+
+    <!-- Map selection -->
+    <string key="Tooltip_ChangeMapButton">选择要玩的地图 : 美国, 欧洲, 瑞士, 印度, 等等.</string>
+    <string key="Tooltip_MapUsaButton">选择美国的地图</string>
+    <string key="Tooltip_MapUsButton">游玩美国地图. 这个是原版规则</string>
+    <string key="Tooltip_MapUsa1910Button">游玩美国1910扩展地图 附带3个新玩法 : 1910 经典, 大城市, Mega Game</string>
+    <string key="Tooltip_MapEuButton">选择欧洲的地图</string>
+    <string key="Tooltip_MapEuropeButton">游玩欧洲地图, 有车站和隧道</string>
+    <string key="Tooltip_MapAsiaButton">选择亚洲的地图</string>
+    <string key="Tooltip_MapIndiaButton">游玩印度地图 建造曼陀罗(环线)</string>
+    <string key="Tooltip_MapLegendaryAsiaButton">游玩大亚洲地图</string>
+    <string key="Tooltip_MapSwitzerlandButton">游玩瑞士地图 适合2-3人 带着目的是胜利的关键</string>
+    <string key="Tooltip_MapWorldButton">随机选择地图</string>
+
+    <!-- Play solo tab -->
+    <string key="Tooltip_SelectBot">按下以选择对手, 或者留空位</string>
+    <string key="Tooltip_SelectFirstPlayerButton">选中后此玩家先手</string>
+
+    <!-- Local game tab -->
+    <string key="Tooltip_LeaveLocalGame">取消这场局域网游戏</string>
+
+    <!-- Online tab -->
+    <string key="Tooltip_OnlineJoinTabButton">显示等待玩家加入的列表, 你可以选择游玩</string>
+    <string key="Tooltip_OnlineCreateTabButton">显示游戏设定, 准备游戏并凑齐人</string>
+    <string key="Tooltip_OnlineResumeTabButton">显示你参与的游戏 并继续游玩</string>
+    <string key="Tooltip_OnlineObserveTabButton">显示正在进行的游戏 并观战</string>
+    <string key="Tooltip_OnlineQuickButton">快速开始游戏 不纠结游戏设定</string>
+    <string key="Tooltip_OnlineLobbyButton">创建游戏以使他人参与</string>
+    <string key="Tooltip_OnlineBuddiesButton">邀请朋友来玩游戏</string>
+    <string key="Tooltip_OnlineFirstPlayerButton">选择先手</string>
+    <string key="Tooltip_OnlineObservableButton">允许其他玩家观战</string>
+    <string key="Tooltip_OnlineNbPlayersButton">选择玩家数量</string>
+    <string key="Tooltip_OnlineMinimumKarmaButton">设定参与游戏的最低等级限制</string>
+    <string key="Tooltip_OnlinePrivateGameButton">给游戏设置密码 只有知道密码的人可以参与</string>
+    <string key="Tooltip_OnlineRankedGameButton">选中后 本场游戏结果将影响玩家排名</string>
+    <string key="Tooltip_OnlineObservableByNobodyButton">选中后 将不允许观战</string>
+    <string key="Tooltip_OnlineObservableByEverybodyButton">选中后 将允许所有人观战</string>
+    <string key="Tooltip_OnlineObservableCardsSwitch">选中后 观战人将能看到你的牌</string>
+    <string key="Tooltip_OnlineSingleSession">单场游戏是实时的, 如果玩家退出或者超时 将会被机器人托管</string>
+
+    <!-- Buddies -->
+    <string key="Tooltip_AddBuddyButton">加入好友列表的玩家更方便被邀请</string>
+    <string key="Tooltip_AddIgnoreButton">忽略玩家之后, TA不能加入你创建或者已加入的游戏 并且你看不到TA的聊天</string>
+
+    <!-- Chat and Players lists -->
+    <string key="Tooltip_ChatTabButton">查看并发送聊天</string>
+    <string key="Tooltip_PlayersTabButton">看看谁在线 管理好友和已忽略玩家列表</string>
+    <string key="Tooltip_PlayerInfoBuddyIndicatorButton">这位玩家在你的好友列表 按此修改</string>
+    <string key="Tooltip_PlayerInfoIgnoredIndicatorButton">你已忽略这位玩家 按此修改</string>
+    <string key="Tooltip_PlayerInfoOtherIndicatorButton">这位玩家不在你的列表 按此修改</string>
+    <string key="Tooltip_PlayerInfoKarmaIndicator">这是玩家的等级. 等级越低, 这位玩家更常中途逃跑</string>
+    <string key="Tooltip_PlayerInfoInviteButton">邀请加入游戏. 你的好友将会在开始游戏时收到通知</string>
+    <string key="Tooltip_PlayerInfoRemoveButton">踢出游戏</string>
+    <string key="Tooltip_PlayersListOnlineTabButton">在线玩家列表</string>
+    <string key="Tooltip_PlayersListBuddiesTabButton">好友列表</string>
+    <string key="Tooltip_PlayersListIgnoreTabButton">已忽略玩家列表</string>
+    <string key="Tooltip_PlayersListFilterTextButton">搜索玩家名称</string>
+    <string key="Tooltip_OnlineArena_ChatHistory">聊天记录</string>
+    <string key="Tooltip_OnlineArena_ChatBox">聊天框</string>
+
+    <!-- Misc. -->
+    <string key="Tooltip_AutomaticRedeploySwitch">根据你的策略打出额外的卡片 可以是颜色牌或车头</string>
+
+    <!-- In game -->
+    <string key="Tooltip_InGame_DoneButton">保留选中的路线牌</string>
+    <string key="Tooltip_InGame_LeaveButton">离开游戏</string>
+    <string key="Tooltip_InGame_SettingsButton">编辑设置</string>
+    <string key="Tooltip_InGame_RulesButton">显示地图玩法</string>
+    <string key="Tooltip_InGame_NextGameButton">去到下一场轮到你的游戏</string>
+    <string key="Tooltip_InGame_InfoButton">显示游戏详细设置</string>
+    <string key="Tooltip_EndOfGame_ShowTicketsButton">显示车票和桌子</string>
+
+
+    <!-- Settings screen -->
+    <string key="Tooltip_ColorButton">修改角色的颜色. 这也会修改你火车的颜色.</string>
+
+    <!-- Play screen -->
+    <string key="Tooltip_PassNPlayButton">只用这台设备和朋友玩</string>
+
+    <!-- Map selection -->
+    <string key="Tooltip_AchievementsButton">查看这张地图已完成和未完成的成就</string>
+    <string key="Tooltip_AllMapsSwitch">勾选查看所有地图的排名</string>
+
+    <!-- Online tab -->
+    <string key="Tooltip_OnlineObservableByBuddiesButton">勾选后只允许好友观战</string>
+    <string key="Tooltip_OnlineMultipleSession">可以同时进行多场游戏. 在游戏设置中 每位玩家有总时间限制. 只要你不超时 可以随意进出. 轮到你的时候开始计时.</string>
+
+    <string key="Tooltip_OnlineMinimumScoreButton">设置最低名次限制</string>
+
+    <!-- Game filters -->
+    <string key="Tooltip_GameFilterRankedGamesButton">显示/隐藏对战游戏</string>
+    <string key="Tooltip_GameFilterPrivateGamesButton">显示/隐藏有密码的游戏</string>
+    <string key="Tooltip_GameFilterInstantReplacementGamesButton">显示/隐藏有玩家离开的游戏</string>
+
+    <string key="Tooltip_OnlineInstantBotHotswapButton">玩家在中途退出或超时后会被机器人托管. 此设置开启时, 断线的玩家也会被托管. 此功能让游戏变快节奏 所有玩家都实时操作.</string>
+
+    <!-- Nordic Countries -->
+    <string key="Tooltip_MapNordicCountriesButton">游玩北欧国家地图</string>
+
+    <!-- 1912 -->
+    <string key="Tooltip_MapEurope1912Button">游玩欧洲1910扩展地图 附带3个新玩法 : 1912 扩展, 大城市, Mega Game</string>
+
+    <string key="Tooltip_PlayersListAllTabButton">寻找玩家</string>
+
+    <!-- Pennsylvania -->
+    <string key="Tooltip_MapPennsylvaniaButton">游玩宾夕法尼亚州地图</string>
+    <string key="Tooltip_InGame_PickStockShare_ForYou">拿取对你共享的库存</string>
+    <string key="Tooltip_InGame_PickStockShare_ForDummyPlayer">拿取对机器玩家共享的库存</string>
+
+    <!-- Germany -->
+    <string key="Tooltip_MapGermanyButton">游玩德国地图</string>
+
+    <string key="MoreButton_Tooltip">名人堂, 规则, 成就...</string>
+    <string key="ShopButton_Tooltip">查看可用的桌游和数字版扩展包</string>
+    <string key="MoreGamesButton_Tooltip">更多游戏...</string>
+
+    <!-- United Kindgom -->
+    <string key="Tooltip_MapUnitedKingdomButton">游玩英国地图</string>
+    <string key="Tooltip_MapUnitedKingdomAdvancedButton">游玩英国地图 附带高级科技</string>
+    <string key="Tooltip_ThermocompressorPassButton">不铺第二条路并结束回合.</string>
+
+    <string key="Tooltip_OnlineArena_Search">搜索名字</string>
+    <string key="Tooltip_MapUsa1912Button">欧洲地图 附带1912扩展</string>
+    <string key="PeriodicChallengeButton_Tooltip">游玩每周挑战 进入全球排行榜</string>
+
+    <string key="Tooltip_VibrationButton">允许设备振动</string>
+    <string key="Tooltip_MapFranceButton">游玩法国地图</string>
+
+    <string key="UserAgreementButton_Tooltip">阅读用户许可协议</string>
+    <string key="PrivacyPolicyButton_Tooltip">阅读隐私政策</string>
+
+    <string key="PeriodicChallengeButton_Tooltip">单人游玩 与其他玩家比分</string>
+
+    <!-- Localization Kit -->
+    <!-- TODO Localize these strings in English -->
+    
+</strings>
+<!-- tooltipLocalizedStringKey -->
