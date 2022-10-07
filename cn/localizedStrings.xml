@@ -280,7 +280,7 @@ Do you want to save it?</string>
 
 <string key="WorldwideHighscoreMessageBox_MessageFormatForMap">%s, 你刚刚破了 %s 地图的世界高分记录!</string>
 <string key="WorldwideHighscoreMessageBox_GlobalMessageFormat">%s, 你刚刚破了全图的世界高分记录!</string>
-    <string key="WorldwideHighscoreMessageBox_Go">See it</string>
+    <string key="WorldwideHighscoreMessageBox_Go">查看</string>
 
     <string key="ScoringRecapController_GameScoreTitle">游戏分数</string>
 
