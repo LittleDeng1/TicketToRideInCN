@@ -652,9 +652,9 @@ Do you want to save it?</string>
 <string key="ForbiddenOpenGame_NotOwnMap_uwp">你还没有 %s 附加包. 为什么不买呢?</string>
 <string key="ForbiddenOpenGame_NotOwnMap_ps4">你还没有 %s 附加包. 为什么不买呢?</string>
 <string key="RulesPoint_SelectMoreTicket">你还要选择 %s 张车票</string>
-<string key="PopUpMessage_NotEnoughCards_Singular">需要 %d 张 %s 色牌</string>
-<string key="PopUpMessage_NotEnoughCards_Plural">需要 %d 张 %s 色牌</string>
-<string key="PopUpMessage_NotEnoughCards">你需要 %s 张牌来铺这张路</string>
+<string key="PopUpMessage_NotEnoughCards_Singular">需要 %d 张 %s色牌</string>
+<string key="PopUpMessage_NotEnoughCards_Plural">需要 %d 张 %s色牌</string>
+<string key="PopUpMessage_NotEnoughCards">你 %s 来铺这条路</string>
 <string key="SelectHintId">选择</string>
 <string key="UnselectHintId">取消选择</string>
 <string key="BuyTechnoHintId">购买科技</string>
