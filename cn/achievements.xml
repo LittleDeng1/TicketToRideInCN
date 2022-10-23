@@ -52,8 +52,8 @@
     <string key="T2RAchievementDescription_LakeExpress">连通所有大瑞士湖赢得游戏 (Geneve or Lausanne, Neuchatel, Interlaken, Zurich, Lugano, Locarno, Kreuzlingen). (仅限单人游戏)</string>
 
     <string key="T2RAchievementDescription_MountainHermit">只连通山路赢得游戏. (仅限单人游戏)</string>
-    <string key="T2RAchievementDescription_MarcoPolo">单个网络连通22个城市并赢得游戏. (仅限单人游戏)</string>
-    <string key="T2RAchievementDescription_DoubleTrouble">只完成两条路线赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_MarcoPolo">连通22个城市并赢得游戏. (仅限单人游戏)</string>
+    <string key="T2RAchievementDescription_DoubleTrouble">只完成双车道路线赢得游戏. (仅限单人游戏)</string>
     <string key="T2RAchievementDescription_FasterThanMongolianHorse">用24回合及以内赢得游戏. (仅限单人游戏)</string>
     <string key="T2RAchievementDescription_AsiaPassport">获得所有大亚洲地图专属成就. (仅限单人游戏)</string>
 
