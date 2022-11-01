@@ -484,7 +484,7 @@ Do you want to save it?</string>
 
 <string key="TechnologyDescription_WalesConcession">允许你在威尔士的任意5个城市铺路.</string>
 <string key="TechnologyDescription_IrelandFranceConcession">允许你在爱尔兰的任意10个城市和入法线铺路.</string>
-<string key="TechnologyDescription_ScotlandConcession">允许你在苏格兰的任意10个城市铺路Allows you to claim routes into any of 10 cities in Scotland.</string>
+<string key="TechnologyDescription_ScotlandConcession">允许你在苏格兰的任意10个城市铺路.</string>
 <string key="TechnologyDescription_MechanicalStoker">允许你铺3格长的路.</string>
 <string key="TechnologyDescription_SteamBoiler">允许你铺4到6格长的路. 铺3格长的路依然需要机械加煤机.</string>
 <string key="TechnologyDescription_Propellers">允许你铺渡轮路.</string>
