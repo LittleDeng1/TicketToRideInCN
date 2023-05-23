@@ -1,0 +1,19 @@
+
+// Push notifications localization
+"YOUR_TURN_ACTION" = "回到游戏";
+"YOUR_TURN" = "现在轮到你了!";
+
+"YT_ROBOT_ACTION" = "回到游戏";
+"YOUR_TURN_ROBOT" = "现在轮到你了!";
+
+"YT_INVITE_ACTION" = "回到游戏";
+"YOUR_TURN_INVITE" = "你已受邀参与游戏!";
+
+"INVITATION_ACTION" = "回到游戏";
+"CONFIRM_INVITATION" = "你已受邀参与游戏!";
+
+"GAME_OVER_ACTION" = "游戏结束";
+"GAME_OVER" = "一局游戏刚刚结束了";
+
+//Default message
+"DEFAULT_MESSAGE" = "Ticket To Ride 需要你的注意";
