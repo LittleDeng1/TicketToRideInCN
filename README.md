@@ -1,5 +1,5 @@
 # TicketToRideInCN
-铁路环游Windows/iPad版 基本中文翻译
+铁路环游Windows/苹果版 基本中文翻译
 
 Basic Chinese translation for Ticket To Ride on Windows/iPad
 
@@ -16,7 +16,10 @@ Basic Chinese translation for Ticket To Ride on Windows/iPad
 
 ~~需要Localizable.strings~~
 
-~~仅测试iPad版本~~
+### macOS (Steam)
+~~将xml文件覆盖到/Users/用户名/Library/Application Support/Steam/steamapps/common/Ticket to Ride/Ticket to Ride.app/Contents/Resources/translation/en“即可~~
+
+~~无需Localizable.strings~~
 
 乱码 不知道怎么改
 
